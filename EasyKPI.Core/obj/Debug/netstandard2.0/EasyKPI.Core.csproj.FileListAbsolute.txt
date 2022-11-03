@@ -1,0 +1,12 @@
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\bin\Debug\netstandard2.0\EasyKPI.Core.deps.json
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\bin\Debug\netstandard2.0\EasyKPI.Core.dll
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\bin\Debug\netstandard2.0\EasyKPI.Core.pdb
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\obj\Debug\netstandard2.0\EasyKPI.Core.csprojAssemblyReference.cache
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\obj\Debug\netstandard2.0\EasyKPI.Core.AssemblyInfoInputs.cache
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\obj\Debug\netstandard2.0\EasyKPI.Core.AssemblyInfo.cs
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\obj\Debug\netstandard2.0\EasyKPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\obj\Debug\netstandard2.0\EasyKPI.Core.dll
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\obj\Debug\netstandard2.0\EasyKPI.Core.pdb
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\bin\Debug\netstandard2.0\EasyKPI.Data.dll
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\bin\Debug\netstandard2.0\EasyKPI.Data.pdb
+C:\Users\Saif\source\repos\PFE\EasyKPI.WebApi\EasyKPI.Core\obj\Debug\netstandard2.0\EasyKPI.Core.csproj.CopyComplete

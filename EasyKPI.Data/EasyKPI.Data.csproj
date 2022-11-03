@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210709213333_initial.cs" />
+    <Compile Remove="Migrations\20210709213333_initial.Designer.cs" />
+    <Compile Remove="Migrations\20210709215254_initial.cs" />
+    <Compile Remove="Migrations\20210709215254_initial.Designer.cs" />
+    <Compile Remove="Migrations\20210709215936_initial.cs" />
+    <Compile Remove="Migrations\20210709215936_initial.Designer.cs" />
+    <Compile Remove="Migrations\20210710083535_initial2.cs" />
+    <Compile Remove="Migrations\20210710083535_initial2.Designer.cs" />
+    <Compile Remove="Migrations\20210710083957_initial.cs" />
+    <Compile Remove="Migrations\20210710083957_initial.Designer.cs" />
+    <Compile Remove="Migrations\20210710091353_initial.cs" />
+    <Compile Remove="Migrations\20210710091353_initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
